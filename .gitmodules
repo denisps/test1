@@ -1,0 +1,3 @@
+[submodule "contrib/LibSourcery"]
+	path = contrib/LibSourcery
+	url = https://github.com/denisps/libsourcey.git
